@@ -1,6 +1,0 @@
-1
-2
-3
-git add
-sum
-multiply
